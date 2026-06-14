@@ -67,4 +67,6 @@ This dashboard helps business owners and analysts:
 
 ## 📷 Dashboard Preview
 
-![Store-Sales-DashBoard](Store Sale Dashboard.png)
+## Dashboard Preview
+
+![Store Sales Dashboard](Store%20Sale%20Dashboard.png)
